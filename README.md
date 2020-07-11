@@ -8,7 +8,7 @@ I have a deep understanding of component-based frameworks, such as [Re][10]​[a
 
 Beyond front-end, I am passionate about creating robust, scalable, and secure systems. As a full-stack developer, I can integrate user-facing elements with server-side logic. I adhere to the best infosec and DevOps practices. I always write reusable code and [l][1]​[i][2]​[b][3]​[r][4]​[a][5]​[r][6]​[ies][7].
 
-<h1>​</h1>
+<h1></h1>
 
 ##### Social
 

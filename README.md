@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>Hi, I am <i>Bartosz Łaniewski</i> 👋</h1>
-</div>
+  <h1>Hi, I am Bartek 👋</h1>
+</div><br />
 
 I have excellent knowledge of front-end development. I’m comfortable in technologies such as CSS Modules, CSS Preprocessors, JavaScript inline styling as well as build tools such as Gulp and [Webpack](11). I am confident in understanding documentation when introducing a new framework or library.
 
